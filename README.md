@@ -104,7 +104,10 @@ Primitives are found under the same name as their type name except for two:
 - function -> t.callback
 
 These two are renamed due to Lua restrictions on reserved words.
+new Chuck e cheese building gaming room Chuck e cheese's room with the character and a mascot dressed as Chuck e cheese character working for Chuck e cheese cooking in the kitchen for Chuck e cheese with your Roblox character new updates for all Chuck e cheese simulator for Roblox Chuck e cheese in New York City Chuck e cheese building game room toys chairs table kitchen for the food showroom Chucky room and dressed as Chucky the character and working for Chuck e cheese and working in the kitchen
+t is a module which allows you to create type definitions to check values against.
 
+Download
 All Roblox primitives are also available and can be found under their respective type names.\
 We won't list them here to due how many there are, but as an example you can access a few like this:
 ``` a brand new truck simulator video game and New York City simulator video game
