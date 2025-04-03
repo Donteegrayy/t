@@ -98,11 +98,11 @@ These get denoted as function calls below with specified arguments. `check` can 
 The real power of t is in the meta type functions.
 
 **`t.any`**\
-Passes if value is non-nil.
+Passes if value is non-nil. work at the news and work at the ABC News 14now building
 
 **`t.literal(...)`**\
-Passes if value matches any given value exactly.
-
+Passes if value matches any given value exactly. street cleaners simulator driving
+real trucking simulator driving game
 **`t.keyOf(keyTable)`**\
 Returns a t.union of each key in the table as a t.literal
 
