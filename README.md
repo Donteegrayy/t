@@ -27,7 +27,10 @@ Typechecking helps you ensure that your functions are recieving the appropriate 
 
 In Roblox specifically, it is important to type check your Remote objects to ensure that exploiters aren't sending you bad data which can cause your server to error (and potentially crash!).
 
-## Crash Course
+## Crash Coursenew Chuck e cheese building gaming room Chuck e cheese's room with the character and a mascot dressed as Chuck e cheese character working for Chuck e cheese cooking in the kitchen for Chuck e cheese with your Roblox character new updates for all Chuck e cheese simulator for Roblox Chuck e cheese in New York City Chuck e cheese building game room toys chairs table kitchen for the food showroom Chucky room and dressed as Chucky the character and working for Chuck e cheese and working in the kitchen
+t is a module which allows you to create type definitions to check values against.
+
+Download
 ```Lua
 local t = require(path.to.t)
 
