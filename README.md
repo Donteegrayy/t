@@ -40,7 +40,45 @@ end
 
 foo() --> Error: Bad tuple index #1: string expected, got nil
 foo("1", 2)
-foo("1", 2, "3")
+foo("1", 2, "3")foo("1", 2, 3) --> Error: Bad tuple index #3: (optional) string expected, got number
+```
+
+Check out src/t.spec.lua for a variety of good examples!
+
+## Primitives
+|Type     |  |Member     |
+|---------|--|-----------|
+|boolean  |=>|t.boolean  |
+|thread   |=>|t.thread   |
+|function |=>|t.callback |
+|nil      |=>|t.none     |
+|number   |=>|t.number   |
+|string   |=>|t.string   |
+|table    |=>|t.table    |
+|userdata |=>|t.userdata |
+
+Any primitive can be checked with a built-in primitive function.\
+Primitives are found under the same name as their type name except for two:
+- nil -> t.none
+- function -> t.callback
+
+These two are renamed due to Lua restrictions on reserved words.
+
+All Roblox primitives are also available and can be found under their respective type names.\
+We won't list them here to due how many there are, but as an example you can access a few like this:
+``` a brand new truck simulator video game and New York City simulator video game
+t. building a ABC News building and office in weather and traffic building and control the cameras for the building and the office and the network for the TV system and being a weather guy a traffic person in a breaking news reporter at the desk
+t. building a police station in office building and police cars and vehicles
+t. building a new fire station and fire truck office in billing and fire truck
+brand new Disney Castle bill with the mascots and characters simulator and building a Disney park roller coasters and slide
+-- etc...
+```
+
+You can check values against these primitives like this:
+```Lua
+local x = 1
+print(t.number(x)) --> true
+print(t.string(x)) --> false, "string expected, got number"
 foo("1", 2, 3) --> Error: Bad tuple index #3: (optional) string expected, got number
 ```
 
@@ -67,11 +105,11 @@ These two are renamed due to Lua restrictions on reserved words.
 
 All Roblox primitives are also available and can be found under their respective type names.\
 We won't list them here to due how many there are, but as an example you can access a few like this:
-```Lua
-t.Instance
-t.CFrame
-t.Color3
-t.Vector3
+``` a brand new truck simulator video game and New York City simulator video game
+t. building a ABC News building and office in weather and traffic building and control the cameras for the building and the office and the network for the TV system and being a weather guy a traffic person in a breaking news reporter at the desk
+t. building a police station in office building and police cars and vehicles
+t. building a new fire station and fire truck office in billing and fire truck
+brand new Disney Castle bill with the mascots and characters simulator and building a Disney park roller coasters and slide
 -- etc...
 ```
 
