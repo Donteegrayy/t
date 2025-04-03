@@ -366,3 +366,20 @@ So whatever I name the library will be what people name the variable.\
 If I made the name of the library longer, the type definitions become more noisy / less readable.\
 Things like this are pretty common:\
 `local fooCheck = t.tuple(t.string, t.number, t.optional(t.string))`
+the/
+/game)/ ABC News )Roblox )billing wetter room with green (screen a weather+ camera) a TV )camera)+
+/a Smart)_ board a desk in a chair for) breaking )news report )in the building TV )camera) Smart board camera)a regular )camera)
+/makeup room (-+dress room) man room suits)+dressing room) 8+
+/TV monitor -for the weather report) room monitor the TV screen)-
+/tobehind the camera for the news)_work behind the camera for the breaking news)/
+/TV monitor room control the TV and switch the TV)/to )work behind the TV monitor)
+/traffic monitor to record on the monitor to give /report )in front of the camera and TV camera)
++/for the news building) (ABC News /simulator/game (for (Roblox)/+
++/computer for your office room) upstairs room office) downstairs room) office) 
+/cover all breaking news)+/
+/garage for the weather truck)/garage for the news truck vehicle/TV monitor inside the news meteor truck) driving)
+color Auto reports on the scene)/
+/TV screens and monitors inside the vehicle) and driving the vehicle)
+/learn how to use the camera on scene for bad reports)/to give back to the ABC news media office building) 
+/electronic room inside your office for your monitors and cameras//) AI monitor) AI workers)/
+brand new simulator ABC News video game for) mobile phone) Xbox) PC) PlayStation)
